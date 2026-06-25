@@ -10,7 +10,7 @@
     "stb",
     "mimalloc",
     "zstd",
-    "sdl3",
+    { "name": "sdl3", "features": ["dbus"] },
     "openal-soft",
     "opus",
     "libogg",
